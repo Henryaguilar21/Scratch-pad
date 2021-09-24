@@ -1,3 +1,3 @@
 # Scratch-pad
 
-this is a testing area
+This is a testing area
